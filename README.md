@@ -2,8 +2,8 @@
 
 Structure
 - frontend/: static pages and UI
-  - home.html: main landing page with hero slider, “Find Your Perfect Home Style,” house‑plan filters, services, and CTAs.
-  - header.html, footer.html: global navigation, contact information, license LICENSE_ID_PLACEHOLDER.
+  - home.html: main landing page with hero slider, search filters, services, and CTAs.
+  - header.html, footer.html: global navigation, contact information.
   - contact.html, links.html, home-search-modal.html.
   - css/style.css; js/: nav.js, slider.js, dropdown.js, location-dropdown.js, home-seach.js, custom.js.
 - backend/: PHP scripts
