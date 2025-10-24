@@ -1,4 +1,4 @@
-#Custom WordPress Template using secure WP REST APIs 
+# Custom WordPress Template using secure WP REST APIs 
 
 Structure
 - frontend/: static pages and UI
